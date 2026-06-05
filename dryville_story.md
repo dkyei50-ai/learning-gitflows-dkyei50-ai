@@ -34,9 +34,9 @@ Soon you start getting money from the citizens buying water from you - and that 
 
 ## Be Gone, Dirty Water
 
-With all that water moving around town, the next problem is making sure it is clean enough to drink. The creek water is fine for filling the tank, but it still carries mud, leaves, and germs that you do not want in people's homes. So Dryville builds a small treatment system to get rid of the dirty stuff before the water goes into the pipes.
+One night you again walk through Dryville, and you can hear the water running in people's homes. The town has water now, but the real challenge is making sure that water is clean enough to drink. The creek water may be okay for filling the tank, but it still carries mud, leaves, and germs that you don't want in anyone's glass.
 
-First, the water is held in settling basins so the heavy dirt can drop to the bottom. Then the clearer water moves through sand and gravel filters to catch smaller particles. Finally, the water is treated to kill the germs and make it safe for drinking, cooking, and washing.
+So you decide to build a simple treatment system before the water goes into the pipes. First, the water is held in settling basins so the heavy dirt can drop to the bottom. Then the clearer water moves through sand and gravel filters to capture smaller particles. Finally, the water is treated to kill germs and make it safe for drinking, cooking, and washing.
 
 Keeping dirty water out of the pipes helps the town stay healthy. Once the water is clean, Dryville can be proud that its public supply is not only flowing, but also safe for everyone to use.
 
