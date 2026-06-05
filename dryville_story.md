@@ -32,3 +32,11 @@ Now everyone is enjoying running water in their homes. But it took a lot of work
 
 Soon you start getting money from the citizens buying water from you - and that gives you an idea. You're going to write an acquaintance back home and tell him he needs to build another town down the road from Dryville. Then when your friend gets his town started, Dryville will offer to sell them water that you get from your public-supply system! You can build an [aqueduct system](https://www.usgs.gov/water-science-school/science/aqueducts-move-water-past-and-today) to move water from Dryville to them. Of course, there will be a mark up to cover the cost of delivering the water — nothing wrong with making a little profit.
 
+## Be Gone, Dirty Water
+
+With all that water moving around town, the next problem is making sure it is clean enough to drink. The creek water is fine for filling the tank, but it still carries mud, leaves, and germs that you do not want in people's homes. So Dryville builds a small treatment system to get rid of the dirty stuff before the water goes into the pipes.
+
+First, the water is held in settling basins so the heavy dirt can drop to the bottom. Then the clearer water moves through sand and gravel filters to catch smaller particles. Finally, the water is treated to kill the germs and make it safe for drinking, cooking, and washing.
+
+Keeping dirty water out of the pipes helps the town stay healthy. Once the water is clean, Dryville can be proud that its public supply is not only flowing, but also safe for everyone to use.
+
